@@ -15,4 +15,4 @@ function createFareMultiplier(num) {
   };
 };
 
-const fareDouble(num) = function() createFareMultiplier(2);
+const fareDouble(num) = createFareMultiplier(2);
